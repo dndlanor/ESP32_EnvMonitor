@@ -20,7 +20,7 @@ Its open-source nature and <$20 bill of materials make it deployable in classroo
 - Breadboard + Jumper Wires
 - Arduino IDE for firmware development
 
-## ⚙️ Features
+## Features
 
 - Simulates analog sensor data via potentiometer
 - Displays temperature in real-time on LCD
