@@ -27,3 +27,7 @@ Its open-source nature and <$20 bill of materials make it deployable in classroo
 - Logs values to Serial Monitor for development/debugging
 - Easily expandable to include DHT11/MQ sensors or cloud integration (e.g., Firebase, ThingSpeak)
 - Designed with low-power and OTA update support in mind
+
+## Demo Video
+
+[Watch the Project Demo on YouTube](https://youtube.com/shorts/3HTdi6ywX5w?feature=share)
